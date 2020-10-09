@@ -1,6 +1,4 @@
 # prow
 
 
-Testing prow jobs
-test
-tes2222
+You can build, test, and deploy Prow’s binaries, container images, and cluster resources using bazel.
